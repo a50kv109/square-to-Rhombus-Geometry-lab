@@ -1,0 +1,6 @@
+{
+  "name": "Pythagoras Geometry Lab",
+  "description": "Интерактивная геометрическая лаборатория: от теоремы Пифагора до авторской конструкции «Пифагоровы штаны» с исследованием асимметрии и геометрических инвариантов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
